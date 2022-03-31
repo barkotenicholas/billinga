@@ -1,4 +1,4 @@
-package com.infinityapps.myreviewsample
+package com.mine.recipe
 
 import android.os.Bundle
 import android.util.Log

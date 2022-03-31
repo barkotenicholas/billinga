@@ -1,4 +1,4 @@
-package com.infinityapps.myreviewsample
+package com.mine.recipe
 
 import org.junit.Test
 
